@@ -553,7 +553,7 @@ public class KeyguardViewMediator implements KeyguardViewCallback,
             }
 
             if (DEBUG) Log.d(TAG, "doKeyguard: showing the lock screen");
-            showLocked();
+            //showLocked();
         }
     }
 
